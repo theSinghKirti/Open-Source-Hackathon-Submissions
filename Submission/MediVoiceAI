@@ -1,0 +1,77 @@
+# Open Source Hackathon 2026 Project Submission
+
+## Participant Details
+
+**Full Name:**  
+KIRTI
+
+**GitHub Username:**  
+https://github.com/theSinghKirti
+
+**Team Name:**  
+PIXIE DUST
+
+**College/University:**  
+SHRI RAMSWAROOP MEMORIAL COLLEGE OF ENGINEERING AND MANAGEMENT , LKO
+
+---
+
+## Project Details
+
+**Project Title:**  
+MediVoice AI — Real-Time AI Medical Voice Assistant
+
+**Project Description:**  
+Project Description:
+MediVoice AI is a full-stack SaaS web application that lets users speak naturally about their symptoms and have a real-time voice conversation with a specialized AI doctor agent. The AI listens, responds with empathetic evidence-based guidance, and generates a structured consultation report at the end of each session covering symptoms, possible conditions, medications mentioned, and follow-up recommendations.
+Problem it solves: Millions of people lack immediate access to basic medical guidance — especially after hours. Instead of unreliable Google searches, MediVoice AI offers a calm, conversational, AI-powered first step before seeing a real doctor.
+Why it matters: It democratizes access to preliminary health guidance through voice — no forms, no typing, just talking.
+
+**Tech Stack Used:**  
+Next.js 15, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion, Clerk (Auth + Billing), Neon Postgres, Drizzle ORM, OpenAI GPT-4o, AssemblyAI Real-Time STT, OpenAI TTS, Vercel
+**GitHub Repository Link:**  
+<!-- Add your public project repository link -->
+
+**Live Demo Link:**  
+https://medivoiceai-two.vercel.app/
+
+**Presentation / Demo Video Link:**  
+<!-- Optional but recommended -->
+
+---
+
+## Open Source Readiness
+
+- [YES ] My project is public on GitHub
+- [YES ] My repository has a proper README.md
+- [YES ] I have added setup/installation instructions
+- [ YES] I have added screenshots/demo where possible
+- [YES ] I have added a license file
+- [ABSOLUTE YES] My project is original and built/updated during the hackathon period
+
+---
+
+## Memori Labs Sponsor Task
+
+Please complete these before submitting:
+
+- [DONE ] I have starred the Memori Labs GitHub repository  
+  https://github.com/MemoriLabs/Memori
+
+- [DONE ] I have followed Memori Labs on LinkedIn  
+  https://www.linkedin.com/company/memorilabs/
+
+- [DONE ] I have followed Memori Labs on X  
+  https://x.com/memorilab
+
+- [DONE ] I have checked Memori Labs social links  
+  https://linktr.ee/memorilabs
+
+---
+
+## ID Card Verification
+
+- [ DONE] I have generated my ID card from https://oshack.xyz
+- [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
+
+---
